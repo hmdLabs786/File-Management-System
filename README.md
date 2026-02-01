@@ -15,5 +15,4 @@ A secure and responsive PHP-based file management system featuring user authenti
 * **Frontend:** Bootstrap 5, FontAwesome, CSS3
 * **Environment:** XAMPP
 
-## 📸 Screenshots
-*(Add a screenshot here later!)*
+
